@@ -10,6 +10,6 @@ The `h5upload-form.php` show example of uploading file by html5 request to `h5up
 
 Finally, `image-upload-resized.php` show example to resize images from client before upload to `uploadResized.php`. It's very helpful to make sure your member will not upload unwanted file size to your server.
 
-The resizing process uses <a href="https://gist.github.com/philBrown/880506" target="_blank">Phil Brown `ImageManipulator` class</a>
+The resizing process uses Phil Brown `ImageManipulator` class.
 
 If you have any question, please send an email to me at <hungtrieu2910@gmail.com>
